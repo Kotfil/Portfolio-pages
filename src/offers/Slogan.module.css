@@ -1,0 +1,20 @@
+.slogan {
+    height: 250px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 80%;
+    height: 80%;
+    margin-top: 22px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+button {
+    width: 200px;
+    height: 50px;
+}
